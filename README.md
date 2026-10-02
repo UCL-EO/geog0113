@@ -17,7 +17,7 @@ Note that 1 week is designated 'catch up' to allow for student requests for deep
 | | |  |   | 002 Carbon and Climate |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/carbonClimate.rst)
 | 20 Jan | 11:00-13:00 | Bedford Way - Room: W3.07 | 2  |  003 Terrestrial Carbon Cycle |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/carbonCycle.rst) |
 |  | | |   |  004 Photosynthesis |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/photosynthesis.rst) | 
-| 27 Jan| 11:00-13:00 | Bedford Way - Room: W3.07 | 3  |  005 Solar Radiation Practical | [Instructions](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks_lab/005_Solar_Practical.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F005_Solar_Practical.ipynb) [![Answers](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCL-EO/geog0133/HEAD?filepath=docs%2Fnotebooks_lab%2F005_Solar_Practical_answers.ipynb)| [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks_lab/005_Solar_Practical.ipynb) | 
+| 27 Jan| 11:00-13:00 | Bedford Way - Room: W3.07 | 3  |  005 Solar Radiation Practical | [Instructions](https://colab.research.google.com/drive/1vjV2fKeF-s6Lkdbt2ePxi4IFwbf4XQyb?usp=sharing)|  | 
 | 3 Feb | 11:00-13:00 | Bedford Way - Room: W3.07 |  4 | 006 Terrestrial Ecosystem Modelling |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/modelling.rst)
 | | |   |  | 007 DGVMs  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/dgvms.rst)
 | | |  |   |  008 PEMs |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/pems.rst)
