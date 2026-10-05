@@ -13,7 +13,7 @@ Note that 1 week is designated 'catch up' to allow for student requests for deep
 
 | Date |  Time | Location |  Course Week | Topic | Instructions  | Notes  |
 |---|---|---|---|---|---|---|
-| 13 Jan | 11:00-13:00 | Bedford Way - Room: W3.07 | 1 | 001 Course intro | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/intro.rst)
+| 13 Jan | 11:00-13:00 | NWW 110A (TBC) or BBK Clore 204 | 1 | 001 Course intro | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/intro.rst)
 | | |  |   | 002 Carbon and Climate |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/carbonClimate.rst)
 | 20 Jan | 11:00-13:00 | Bedford Way - Room: W3.07 | 2  |  003 Terrestrial Carbon Cycle |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/carbonCycle.rst) |
 |  | | |   |  004 Photosynthesis |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/photosynthesis.rst) | 
