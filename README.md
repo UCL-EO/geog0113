@@ -13,21 +13,21 @@ Note that 1 week is designated 'catch up' to allow for student requests for deep
 
 | Date |  Time | Location |  Course Week | Topic | Instructions  | Notes  |
 |---|---|---|---|---|---|---|
-| 13 Jan | 11:00-13:00 | Bedford Way - Room: W3.07 | 1 | 001 Course intro | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/intro.rst)
+| 13 Jan | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 1 | 001 Course intro | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/intro.rst)
 | | |  |   | 002 Carbon and Climate |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/carbonClimate.rst)
-| 20 Jan | 11:00-13:00 | Bedford Way - Room: W3.07 | 2  |  003 Terrestrial Carbon Cycle |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/carbonCycle.rst) |
+| 20 Jan | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 2  |  003 Terrestrial Carbon Cycle |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/carbonCycle.rst) |
 |  | | |   |  004 Photosynthesis |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/photosynthesis.rst) | 
-| 27 Jan| 11:00-13:00 | Bedford Way - Room: W3.07 | 3  |  005 Solar Radiation Practical | [Instructions](https://colab.research.google.com/drive/1vjV2fKeF-s6Lkdbt2ePxi4IFwbf4XQyb?usp=sharing)|  | 
-| 3 Feb | 11:00-13:00 | Bedford Way - Room: W3.07 |  4 | 006 Terrestrial Ecosystem Modelling |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/modelling.rst)
+| 27 Jan| 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 3  |  005 Solar Radiation Practical | [Instructions](https://colab.research.google.com/drive/1vjV2fKeF-s6Lkdbt2ePxi4IFwbf4XQyb?usp=sharing)|  | 
+| 3 Feb | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 |  4 | 006 Terrestrial Ecosystem Modelling |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/modelling.rst)
 | | |   |  | 007 DGVMs  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/dgvms.rst)
 | | |  |   |  008 PEMs |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/pems.rst)
-| 10 Feb | 11:00-13:00 | Bedford Way - Room: W3.07 | 5  | 009 Phenology  |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/phenology.rst)
+| 10 Feb | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 5  | 009 Phenology  |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/phenology.rst)
 | | | |   |  010 Photosythesis Modelling |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/modelling_photosynthesis.rst)
 | 17 Feb  | | | 6 | Reading Week| 
-| 24 Feb | 11:00-13:00 | Bedford Way - Room: W3.07 | 7 |  011 Photosythesis Practical I | [Instructions](https://colab.research.google.com/drive/1G5al8koJIzB3DRzYV_CWR-nhSibp6nWP?usp=sharing)  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks_lab/011_Photosynthesis_Modelling_Practical.ipynb) | 
-| 3 Mar  | 11:00-13:00 | Bedford Way - Room: W3.07 | 8  | 011 Photosythesis Practical I | [Instructions](https://colab.research.google.com/drive/1G5al8koJIzB3DRzYV_CWR-nhSibp6nWP?usp=sharing) 
-| 10 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 |  9  | 012 Synthesis and Data Assimilation   |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/synthesis.rst)  
+| 24 Feb | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 7 |  011 Photosythesis Practical I | [Instructions](https://colab.research.google.com/drive/1G5al8koJIzB3DRzYV_CWR-nhSibp6nWP?usp=sharing)  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/notebooks_lab/011_Photosynthesis_Modelling_Practical.ipynb) | 
+| 3 Mar  | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 8  | 011 Photosythesis Practical I | [Instructions](https://colab.research.google.com/drive/1G5al8koJIzB3DRzYV_CWR-nhSibp6nWP?usp=sharing) 
+| 10 Mar | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 |  9  | 012 Synthesis and Data Assimilation   |  | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/synthesis.rst)  
 | |  |  |   | 013 Data Assimilation Applications | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da_basics.rst) [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/da.rst)
-| 17 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 10  | 014 Measurement (student-led seminar)  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/remoteSensing.rst)
-| 24 Mar | 11:00-13:00 | Bedford Way - Room: W3.07 | 11  | Catch-up  | | [presentation](docs/ppt/GEOG0113-2026_catch_up.pptx)
+| 17 Mar | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 10  | 014 Measurement (student-led seminar)  | | [notes](https://github.com/UCL-EO/geog0133/blob/main/docs/remoteSensing.rst)
+| 24 Mar | 11:00-13:00 | NWW 110A (TBC) or Birkbeck Clore 204 | 11  | Catch-up  | | [presentation](docs/ppt/GEOG0113-2026_catch_up.pptx)
 
